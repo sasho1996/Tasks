@@ -1,0 +1,14 @@
+C:\Users\sasho\source\repos\TaskDeveloper\bin\Debug\net8.0\TaskDeveloper.exe
+C:\Users\sasho\source\repos\TaskDeveloper\bin\Debug\net8.0\TaskDeveloper.deps.json
+C:\Users\sasho\source\repos\TaskDeveloper\bin\Debug\net8.0\TaskDeveloper.runtimeconfig.json
+C:\Users\sasho\source\repos\TaskDeveloper\bin\Debug\net8.0\TaskDeveloper.dll
+C:\Users\sasho\source\repos\TaskDeveloper\bin\Debug\net8.0\TaskDeveloper.pdb
+C:\Users\sasho\source\repos\TaskDeveloper\obj\Debug\net8.0\TaskDeveloper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasho\source\repos\TaskDeveloper\obj\Debug\net8.0\TaskDeveloper.AssemblyInfoInputs.cache
+C:\Users\sasho\source\repos\TaskDeveloper\obj\Debug\net8.0\TaskDeveloper.AssemblyInfo.cs
+C:\Users\sasho\source\repos\TaskDeveloper\obj\Debug\net8.0\TaskDeveloper.csproj.CoreCompileInputs.cache
+C:\Users\sasho\source\repos\TaskDeveloper\obj\Debug\net8.0\TaskDeveloper.dll
+C:\Users\sasho\source\repos\TaskDeveloper\obj\Debug\net8.0\refint\TaskDeveloper.dll
+C:\Users\sasho\source\repos\TaskDeveloper\obj\Debug\net8.0\TaskDeveloper.pdb
+C:\Users\sasho\source\repos\TaskDeveloper\obj\Debug\net8.0\TaskDeveloper.genruntimeconfig.cache
+C:\Users\sasho\source\repos\TaskDeveloper\obj\Debug\net8.0\ref\TaskDeveloper.dll
